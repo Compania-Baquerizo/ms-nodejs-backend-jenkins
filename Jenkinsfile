@@ -233,7 +233,7 @@ pipeline {
             steps {
                 script { 
                     // Declarar más variables de entorno
-                    env.API_PROVIDER_URL = "https://prd.api.com"
+                    env.API_PROVIDER_URL = "https://api.com"
                     env.ENV = "prd"
                 }
 
