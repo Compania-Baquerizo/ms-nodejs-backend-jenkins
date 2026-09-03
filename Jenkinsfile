@@ -14,7 +14,7 @@ pipeline {
 
     stages {
 
-        stage('Hello world') {
+        stage('Hello world2') {
             steps {
                 script { 
                     // Declarar más variables de entorno
